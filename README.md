@@ -1,45 +1,39 @@
 # Adidas Sales Performance Dashboard
 
-## Tổng Quan
+## Overview
 
-Dự án này trình bày một dashboard trực quan hóa hiệu suất bán hàng của Adidas. Mục tiêu là cung cấp cái nhìn tổng quan và chi tiết về các chỉ số kinh doanh quan trọng, hỗ trợ việc theo dõi và phân tích hiệu suất bán hàng theo nhiều khía cạnh khác nhau.
+This project presents a dashboard visualizing Adidas' sales performance. The objective is to provide a comprehensive and detailed view of key business metrics, supporting the monitoring and analysis of sales performance across various dimensions.
 
-## Các Tính Năng Chính
+## Key Features
 
-Dashboard này bao gồm các thành phần và chế độ xem sau:
+This dashboard includes the following components and views:
 
-* **Trang Tổng Quan (Overview):**
-    * **Thẻ số (Cards):** Hiển thị tổng số đơn hàng (Total Orders), tổng doanh thu (Total Revenue), tổng chi phí (Total Cost), và tổng lợi nhuận (Total Profit).
-    * **Biểu đồ tròn (Pie Chart):** Phân tích tỷ lệ doanh thu theo phương thức bán hàng (In-store, Online, Outlet).
-    * **Biểu đồ đường kết hợp (Line Chart):** Theo dõi xu hướng doanh thu và lợi nhuận theo thời gian.
-    * **Biểu đồ cột (Bar Chart):**
-        * Hiển thị số lượng sản phẩm đã bán và tỷ suất lợi nhuận theo tháng.
-        * So sánh tổng doanh thu và lợi nhuận giữa các dòng sản phẩm.
-        * So sánh doanh thu giữa các nhà bán lẻ.
-    * **Bản đồ (Map):** Trực quan hóa doanh thu theo khu vực địa lý (ví dụ: theo tiểu bang).
+* **Overview Page:**
+    * **Cards:** Display total orders, total revenue, total cost, and total profit.
+    * **Pie Chart:** Analyzes the revenue share by sales method (In-store, Online, Outlet).
+    * **Combined Line Chart:** Tracks revenue and profit trends over time.
+    * **Bar Chart:**
+        * Shows the number of units sold and profit margin by month.
+        * Compares total revenue and profit across different product lines.
+        * Compares revenue between different retailers.
+    * **Map:** Visualizes revenue by geographic region (e.g., by state).
 
-* **Bộ lọc (Slicers):** Cho phép người dùng lọc dữ liệu theo thời gian (năm), khu vực, sản phẩm và phương thức bán hàng.
+* **Slicers:** Allow users to filter data by time (year), region, product, and sales method.
 
-## Công Nghệ Sử Dụng
+## Technologies Used
 
-Dashboard này được xây dựng hoặc hiển thị bằng một công cụ Business Intelligence (BI) phổ biến, có khả năng là:
+This dashboard is built or displayed using a popular Business Intelligence (BI) tool, likely:
 
 * **Power BI**
-* **Excel** 
+* **Excel**
 
+## Data Source
 
+The data used for this dashboard is Adidas sales data, including information such as:
 
-## Dữ Liệu Nguồn
-
-Dữ liệu được sử dụng cho dashboard này là dữ liệu bán hàng của Adidas, bao gồm các thông tin như:
-
-* Thông tin đơn hàng
-* Chi tiết sản phẩm
-* Thông tin nhà bán lẻ
-* Khu vực bán hàng
-* Phương thức bán hàng
-* Doanh thu, chi phí, lợi nhuận
-
-
-
-
+* Order information
+* Product details
+* Retailer information
+* Sales region
+* Sales method
+* Revenue, cost, profit
