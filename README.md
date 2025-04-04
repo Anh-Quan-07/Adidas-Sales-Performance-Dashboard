@@ -28,12 +28,6 @@ Dashboard này được xây dựng hoặc hiển thị bằng một công cụ 
 * **Excel** 
 
 
-## Hướng Dẫn Sử Dụng
-
-1.  Mở dashboard bằng công cụ BI tương ứng (ví dụ: Power BI Desktop).
-2.  Sử dụng các bộ lọc ở bên trái hoặc phía trên để chọn dữ liệu cần xem.
-3.  Quan sát các chỉ số tổng quan và phân tích các biểu đồ để hiểu về hiệu suất bán hàng.
-4.  Chuyển đổi giữa các trang (nếu có nhiều trang) để xem các phân tích chi tiết hơn theo sản phẩm, phương thức bán hàng, v.v.
 
 ## Dữ Liệu Nguồn
 
